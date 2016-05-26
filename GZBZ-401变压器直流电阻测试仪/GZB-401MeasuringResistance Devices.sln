@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GZB-401MeasuringResistance Devices", "GZB-101变压器直流电阻测试仪\GZB-401MeasuringResistance Devices.csproj", "{A0BA124C-0483-44AC-B95C-E1B6765973E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		CD_ROM|Mixed Platforms = CD_ROM|Mixed Platforms
+		CD_ROM|x86 = CD_ROM|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		DVD-5|Any CPU = DVD-5|Any CPU
+		DVD-5|Mixed Platforms = DVD-5|Mixed Platforms
+		DVD-5|x86 = DVD-5|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+		SingleImage|Any CPU = SingleImage|Any CPU
+		SingleImage|Mixed Platforms = SingleImage|Mixed Platforms
+		SingleImage|x86 = SingleImage|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0BA124C-0483-44AC-B95C-E1B6765973E3}.CD_ROM|Any CPU.ActiveCfg = Release|x86
+		{A0BA124C-0483-44AC-B95C-E1B6765973E3}.CD_ROM|Mixed Platforms.ActiveCfg = Release|x86
+		{A0BA124C-0483-44AC-B95C-E1B6765973E3}.CD_ROM|Mixed Platforms.Build.0 = Release|x86
+		{A0BA124C-0483-44AC-B95C-E1B6765973E3}.CD_ROM|x86.ActiveCfg = Release|x86
+		{A0BA124C-0483-44AC-B95C-E1B6765973E3}.CD_ROM|x86.Build.0 = Release|x86
+		{A0BA124C-0483-44AC-B95C-E1B6765973E3}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{A0BA124C-0483-44AC-B95C-E1B6765973E3}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{A0BA124C-0483-44AC-B95C-E1B6765973E3}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{A0BA124C-0483-44AC-B95C-E1B6765973E3}.Debug|Mixed Platforms.Deploy.0 = Debug|x86
+		{A0BA124C-0483-44AC-B95C-E1B6765973E3}.Debug|x86.ActiveCfg = Debug|x86
+		{A0BA124C-0483-44AC-B95C-E1B6765973E3}.Debug|x86.Build.0 = Debug|x86
+		{A0BA124C-0483-44AC-B95C-E1B6765973E3}.DVD-5|Any CPU.ActiveCfg = Debug|x86
+		{A0BA124C-0483-44AC-B95C-E1B6765973E3}.DVD-5|Mixed Platforms.ActiveCfg = Debug|x86
+		{A0BA124C-0483-44AC-B95C-E1B6765973E3}.DVD-5|Mixed Platforms.Build.0 = Debug|x86
+		{A0BA124C-0483-44AC-B95C-E1B6765973E3}.DVD-5|x86.ActiveCfg = Debug|x86
+		{A0BA124C-0483-44AC-B95C-E1B6765973E3}.DVD-5|x86.Build.0 = Debug|x86
+		{A0BA124C-0483-44AC-B95C-E1B6765973E3}.Release|Any CPU.ActiveCfg = Release|x86
+		{A0BA124C-0483-44AC-B95C-E1B6765973E3}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{A0BA124C-0483-44AC-B95C-E1B6765973E3}.Release|Mixed Platforms.Build.0 = Release|x86
+		{A0BA124C-0483-44AC-B95C-E1B6765973E3}.Release|x86.ActiveCfg = Release|x86
+		{A0BA124C-0483-44AC-B95C-E1B6765973E3}.Release|x86.Build.0 = Release|x86
+		{A0BA124C-0483-44AC-B95C-E1B6765973E3}.SingleImage|Any CPU.ActiveCfg = Release|x86
+		{A0BA124C-0483-44AC-B95C-E1B6765973E3}.SingleImage|Mixed Platforms.ActiveCfg = Release|x86
+		{A0BA124C-0483-44AC-B95C-E1B6765973E3}.SingleImage|Mixed Platforms.Build.0 = Release|x86
+		{A0BA124C-0483-44AC-B95C-E1B6765973E3}.SingleImage|x86.ActiveCfg = Release|x86
+		{A0BA124C-0483-44AC-B95C-E1B6765973E3}.SingleImage|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
